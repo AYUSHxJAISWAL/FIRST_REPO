@@ -1,2 +1,3 @@
 # FIRST_REPO
 My first git-hub Repo
+AUTHOR- AYUSH JAISWAL
